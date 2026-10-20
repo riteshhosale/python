@@ -1,0 +1,402 @@
+1. Python is a high-level programming language.
+2. Python was created by Guido van Rossum.
+3. Python was first released in 1991.
+4. Python emphasizes readable code.
+5. Python uses indentation to define code blocks.
+6. Python is an interpreted language.
+7. Python supports object-oriented programming.
+8. Python supports procedural programming.
+9. Python supports functional programming.
+10. Python programs commonly use the .py extension.
+11. The Python command starts the interpreter.
+12. Python code can run on many operating systems.
+13. Python is available for Windows.
+14. Python is available for macOS.
+15. Python is available for Linux.
+16. Python uses a simple and expressive syntax.
+17. Python is popular with beginners.
+18. Python is also used by professional developers.
+19. Python has a large standard library.
+20. Python has a large third-party ecosystem.
+21. The Python community provides many learning resources.
+22. Python code is usually easy to maintain.
+23. Comments begin with the hash character.
+24. A comment explains code to human readers.
+25. Triple quotes can document modules and functions.
+26. A Python statement usually occupies one line.
+27. Long statements can continue inside brackets.
+28. Python is case-sensitive.
+29. The name value differs from the name Value.
+30. Whitespace inside expressions is usually flexible.
+31. Indentation must be consistent within a block.
+32. Four spaces are a common indentation style.
+33. Tabs and spaces should not be mixed.
+34. PEP 8 describes common Python style guidelines.
+35. A variable stores a reference to an object.
+36. Variables do not need declared types.
+37. Python determines types at runtime.
+38. Assignment uses the equals sign.
+39. Multiple assignment can assign several names.
+40. Names should describe the values they reference.
+41. Python names may contain letters and digits.
+42. Python names may contain underscores.
+43. A name cannot start with a digit.
+44. Keywords cannot be used as ordinary variable names.
+45. Constants are commonly written in uppercase.
+46. A variable can be reassigned.
+47. The type function reports an object's type.
+48. The id function identifies an object during execution.
+49. The print function displays information.
+50. The input function reads text from a user.
+51. Integers represent whole numbers.
+52. Floating-point values represent decimal numbers.
+53. Complex numbers have real and imaginary parts.
+54. Boolean values are True and False.
+55. None represents the absence of a value.
+56. Strings represent text.
+57. Strings can use single quotes.
+58. Strings can use double quotes.
+59. Triple quotes can contain multiline text.
+60. A string is an immutable sequence.
+61. String indexes start at zero.
+62. Negative indexes count from the end.
+63. Slicing extracts part of a sequence.
+64. String concatenation joins strings.
+65. The plus operator concatenates strings.
+66. The multiplication operator repeats a string.
+67. The len function returns a string length.
+68. The lower method converts text to lowercase.
+69. The upper method converts text to uppercase.
+70. The strip method removes surrounding whitespace.
+71. The split method divides text into a list.
+72. The join method combines strings.
+73. The replace method substitutes text.
+74. The startswith method checks a prefix.
+75. The endswith method checks a suffix.
+76. The find method locates text.
+77. The count method counts occurrences.
+78. F-strings format values inside text.
+79. An f-string begins with the letter f.
+80. String formatting improves readable output.
+81. Lists store ordered collections.
+82. Lists can contain different object types.
+83. Lists are mutable.
+84. List literals use square brackets.
+85. List indexes start at zero.
+86. The append method adds one item.
+87. The extend method adds several items.
+88. The insert method adds an item at an index.
+89. The remove method deletes a matching item.
+90. The pop method removes and returns an item.
+91. The clear method removes all list items.
+92. The sort method changes list order.
+93. The reverse method reverses list order.
+94. The in operator tests membership.
+95. List slicing creates a list slice.
+96. A list comprehension creates a list compactly.
+97. List comprehensions can include conditions.
+98. Nested lists can represent tables.
+99. Copying a list can avoid shared changes.
+100. The list function creates a list.
+101. Tuples store ordered collections.
+102. Tuples are immutable.
+103. Tuple literals commonly use parentheses.
+104. A tuple can contain one item.
+105. A one-item tuple needs a trailing comma.
+106. Tuples support indexing.
+107. Tuples support slicing.
+108. Tuples can be unpacked into names.
+109. Tuples are useful for fixed records.
+110. The tuple function creates a tuple.
+111. Sets store unique values.
+112. Sets are unordered collections.
+113. Set literals use curly braces.
+114. An empty set uses set rather than braces.
+115. The add method inserts a set item.
+116. The remove method deletes a set item.
+117. The discard method avoids an error if absent.
+118. Sets support union operations.
+119. Sets support intersection operations.
+120. Sets support difference operations.
+121. Sets are useful for removing duplicates.
+122. The in operator checks set membership.
+123. Set comprehensions create sets.
+124. Set members must be hashable.
+125. The set function creates a set.
+126. Dictionaries store key and value pairs.
+127. Dictionary literals use curly braces.
+128. Dictionary keys must be hashable.
+129. Dictionary values may have any type.
+130. Keys are used to retrieve values.
+131. The get method retrieves a value safely.
+132. The keys method returns dictionary keys.
+133. The values method returns dictionary values.
+134. The items method returns key-value pairs.
+135. The update method adds or changes entries.
+136. The pop method removes a key.
+137. The popitem method removes an entry.
+138. The clear method removes all entries.
+139. Dictionary comprehensions create dictionaries.
+140. Dictionaries preserve insertion order in modern Python.
+141. Operators perform calculations.
+142. The plus operator performs addition.
+143. The minus operator performs subtraction.
+144. The asterisk operator performs multiplication.
+145. The slash operator performs true division.
+146. The double slash operator performs floor division.
+147. The percent operator calculates a remainder.
+148. The double asterisk operator calculates powers.
+149. Parentheses control operation order.
+150. Comparisons produce Boolean results.
+151. The equal operator compares values.
+152. The not-equal operator checks difference.
+153. The less-than operator compares size.
+154. The greater-than operator compares size.
+155. The less-than-or-equal operator allows equality.
+156. The greater-than-or-equal operator allows equality.
+157. The and operator requires both conditions.
+158. The or operator requires one condition.
+159. The not operator reverses a Boolean.
+160. The is operator compares object identity.
+161. The in operator tests membership.
+162. Assignment operators combine assignment and calculation.
+163. The walrus operator assigns inside an expression.
+164. Operators have defined precedence.
+165. Parentheses make expressions clearer.
+166. An if statement makes a decision.
+167. An if block runs when a condition is true.
+168. An elif block tests another condition.
+169. An else block handles remaining cases.
+170. Conditions can compare values.
+171. Conditions can call functions.
+172. Conditions can combine Boolean expressions.
+173. A for loop repeats over an iterable.
+174. A while loop repeats while a condition is true.
+175. The range function produces number sequences.
+176. The break statement exits a loop.
+177. The continue statement skips to the next iteration.
+178. The pass statement does nothing.
+179. Loop else blocks run without a break.
+180. Nested loops contain other loops.
+181. enumerate provides indexes and values.
+182. zip combines items from iterables.
+183. Reversed returns items in reverse order.
+184. The sorted function returns ordered items.
+185. Any tests whether one item is true.
+186. All tests whether every item is true.
+187. A function groups reusable behavior.
+188. Functions are defined with def.
+189. A function name should describe its action.
+190. Functions can accept parameters.
+191. Functions can return results.
+192. The return statement leaves a function.
+193. A function without return returns None.
+194. Parameters receive argument values.
+195. Positional arguments use their order.
+196. Keyword arguments use parameter names.
+197. Default arguments provide fallback values.
+198. Variable positional arguments use an asterisk.
+199. Variable keyword arguments use two asterisks.
+200. Type hints describe expected types.
+201. A docstring documents a function.
+202. Local variables belong to a function call.
+203. Global variables belong to a module.
+204. Avoiding unnecessary globals improves design.
+205. Functions can call other functions.
+206. Functions can be passed as values.
+207. A lambda is a small anonymous function.
+208. Recursive functions call themselves.
+209. Recursion needs a stopping condition.
+210. Pure functions avoid external side effects.
+211. A module is a Python source file.
+212. The import statement loads a module.
+213. Import can load a complete module.
+214. From import loads selected names.
+215. Import aliases provide shorter names.
+216. The math module provides mathematical functions.
+217. The random module generates pseudorandom values.
+218. The datetime module handles dates and times.
+219. The os module provides operating system tools.
+220. The pathlib module handles file paths.
+221. The sys module exposes interpreter information.
+222. The json module handles JSON data.
+223. The re module supports regular expressions.
+224. The csv module handles comma-separated data.
+225. The statistics module provides statistical functions.
+226. A package groups related modules.
+227. Packages commonly contain an __init__.py file.
+228. The standard library is included with Python.
+229. Third-party packages are installed separately.
+230. A virtual environment isolates dependencies.
+231. The venv module creates virtual environments.
+232. Pip installs Python packages.
+233. A requirements file lists dependencies.
+234. Package versions can be pinned.
+235. Imports should normally be near the top.
+236. Circular imports can cause problems.
+237. A module runs its top-level code on import.
+238. The __name__ variable identifies the module context.
+239. Main guards control direct execution.
+240. A main function can organize a script.
+241. Exceptions report unusual runtime conditions.
+242. The try statement begins exception handling.
+243. The except block handles an exception.
+244. The else block runs without an exception.
+245. The finally block runs during cleanup.
+246. ValueError represents an invalid value.
+247. TypeError represents an inappropriate type.
+248. IndexError represents an invalid sequence index.
+249. KeyError represents a missing dictionary key.
+250. FileNotFoundError represents a missing file.
+251. ZeroDivisionError represents division by zero.
+252. NameError represents an unknown name.
+253. AttributeError represents a missing attribute.
+254. ImportError represents an import problem.
+255. Exception is a common base exception class.
+256. Specific exceptions should be caught when possible.
+257. Raising an exception signals an error.
+258. Custom exceptions can describe application errors.
+259. Error messages should be useful.
+260. Exceptions should not be silently ignored.
+261. A class defines a type of object.
+262. Classes are defined with the class keyword.
+263. An object is an instance of a class.
+264. The __init__ method initializes an object.
+265. The self parameter refers to the instance.
+266. Instance attributes belong to an object.
+267. Class attributes are shared by instances.
+268. Methods are functions defined inside classes.
+269. Encapsulation groups data and behavior.
+270. Inheritance allows a class to reuse behavior.
+271. A child class can extend a parent class.
+272. The super function calls parent behavior.
+273. Polymorphism allows shared interfaces.
+274. Method overriding changes inherited behavior.
+275. A property controls attribute access.
+276. The dataclass decorator simplifies data classes.
+277. A class method receives the class.
+278. A static method needs no instance.
+279. Double underscore methods are special methods.
+280. The __str__ method controls readable text.
+281. The __repr__ method supports developer representation.
+282. The __len__ method supports len.
+283. The __eq__ method supports equality comparison.
+284. Composition builds objects from other objects.
+285. Good classes usually have focused responsibilities.
+286. Files can store persistent text.
+287. The open function opens a file.
+288. The with statement closes resources automatically.
+289. Read mode opens a file for reading.
+290. Write mode replaces existing file content.
+291. Append mode adds content at the end.
+292. Exclusive mode creates a new file.
+293. Binary mode handles bytes.
+294. Text mode handles strings.
+295. Encoding specifies how text is represented.
+296. UTF-8 is a common text encoding.
+297. The read method reads file content.
+298. The readline method reads one line.
+299. The readlines method reads lines into a list.
+300. The write method writes text.
+301. The writelines method writes multiple strings.
+302. File objects can be iterated line by line.
+303. The seek method changes the file position.
+304. The tell method reports the file position.
+305. Closing a file releases its resources.
+306. CSV files represent tabular data.
+307. JSON represents structured data.
+308. Serialization converts objects to storable data.
+309. Deserialization reconstructs data from storage.
+310. The pickle module stores Python objects.
+311. Pickle data should not be loaded from untrusted sources.
+312. Pathlib paths are clearer than raw path strings.
+313. A path can identify a file or directory.
+314. The exists method checks a path.
+315. The is_file method checks for a file.
+316. The is_dir method checks for a directory.
+317. The mkdir method creates a directory.
+318. The glob method finds matching paths.
+319. The read_text method reads text.
+320. The write_text method writes text.
+321. Iterators produce values one at a time.
+322. An iterable can provide an iterator.
+323. The iter function obtains an iterator.
+324. The next function obtains the next value.
+325. A generator produces values lazily.
+326. The yield statement creates a generator.
+327. Generators can save memory.
+328. Generator expressions resemble comprehensions.
+329. Decorators modify function behavior.
+330. A decorator accepts and returns a function.
+331. Decorators use the at symbol.
+332. functools provides useful function tools.
+333. functools.wraps preserves function metadata.
+334. Context managers control setup and cleanup.
+335. The with statement uses a context manager.
+336. Context managers implement enter and exit methods.
+337. A custom context manager can manage resources.
+338. itertools provides iterator building blocks.
+339. Collections provides specialized containers.
+340. Counter counts hashable objects.
+341. defaultdict supplies missing values.
+342. deque supports efficient two-ended operations.
+343. A queue stores items for processing.
+344. A stack commonly uses list append and pop.
+345. The heapq module supports priority queues.
+346. Regular expressions search text patterns.
+347. The re search function finds a pattern.
+348. The re match function checks the beginning.
+349. The re findall function returns all matches.
+350. Regular expressions should remain readable.
+351. Logging records program events.
+352. The logging module provides standard logging.
+353. Log levels include debug and info.
+354. Warning logs describe potential problems.
+355. Error logs describe failed operations.
+356. Critical logs describe severe failures.
+357. Logging is better than scattered print calls.
+358. Unit tests check small pieces of code.
+359. The unittest module is in the standard library.
+360. Pytest is a popular third-party test framework.
+361. A test should be repeatable.
+362. Assertions compare expected and actual results.
+363. Test names should describe behavior.
+364. Fixtures provide test setup data.
+365. Mocking replaces dependencies during tests.
+366. Coverage measures executed code.
+367. Debuggers help inspect program execution.
+368. Breakpoints pause a running program.
+369. The pdb module provides a debugger.
+370. Linters identify possible code problems.
+371. Formatters keep code style consistent.
+372. Type checkers inspect type hints.
+373. Documentation explains how code is used.
+374. A README introduces a project.
+375. Version control records code history.
+376. Git is commonly used with Python projects.
+377. Continuous integration runs automated checks.
+378. Environment variables hold external configuration.
+379. Secrets should not be hard-coded.
+380. Input should be validated before processing.
+381. SQL queries should use parameters.
+382. User input should not be executed as code.
+383. The subprocess module runs external programs.
+384. External commands should be handled carefully.
+385. Threads can run tasks concurrently.
+386. The threading module provides threads.
+387. Processes can run tasks in separate memory.
+388. The multiprocessing module provides processes.
+389. Asyncio supports asynchronous programming.
+390. The await keyword waits for asynchronous work.
+391. Async code is useful for input and output.
+392. Concurrency is not the same as parallelism.
+393. Performance should be measured before optimization.
+394. The timeit module measures small code sections.
+395. The cProfile module profiles program execution.
+396. Simple algorithms are often easier to maintain.
+397. Clear names improve program readability.
+398. Small functions are easier to test.
+399. Practice is important for learning Python.
+400. Python skills grow through reading, writing, and testing code.
+
+Welcome to Python
